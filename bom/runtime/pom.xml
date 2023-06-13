@@ -16,7 +16,7 @@
 
   <properties>
     <pax.web.version>7.2.3</pax.web.version>
-    <jetty.version>9.4.11.v20180605</jetty.version>
+    <jetty.version>9.4.51.v20230217</jetty.version>
   </properties>
 
   <dependencies>
